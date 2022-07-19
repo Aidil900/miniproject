@@ -18,7 +18,7 @@ class login_window:
 
 
 
-
+#=========image ========#
         img1=Image.open("C:\images\\UNIMAP.png")
         img1=img1.resize((1550,740),Image.ANTIALIAS)
         self.photoimg1=ImageTk.PhotoImage(img1)
@@ -31,7 +31,7 @@ class login_window:
         root.config(bg="lightgray")
 
 
-
+#====LOGIN====#
         frame1.place(x=530,y=150,width=500,height=500)
         Label(frame1,text="LOGIN" , font=("times 30 bold"),bg="white",fg="black").place(x=180,y=20)
 
