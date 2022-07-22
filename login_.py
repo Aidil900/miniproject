@@ -49,7 +49,7 @@ class login_window:
         pass_val = StringVar()
 
         self.mycombo = ttk.Combobox(frame1,textvariable=type_val,font=("times 18 bold"),width=20,state="read")
-        self.mycombo['values'] = ["Student","Faculty"]
+        self.mycombo['values'] = ["Student","Lecturer"]
         self.mycombo.current()
         self.mycombo.place(x=140,y=100)
 
