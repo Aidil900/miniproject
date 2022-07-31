@@ -12,11 +12,11 @@ And even if all the above-mentioned conditions are met, but at the last moment t
 What a waste of time and energy it is, isn’t it?<br/>
 Hence, we present this computerized system. <br/>
 ## Features
-* Log in/ Log out
+* Log in
 * Add user details
 * Book a room
-* View details
-* Cancel booking <br/>
+* Cancel booking 
+* exit<br/>
 <br/>Our Room Booking portal provides a platform for teachers as well as students, where one can check all the rooms that are available at a specified date and time with a seating capacity as per the requirement. 
 The user must fill in some details on the login area and the portal displays the details that have already been fed on the database. It then shows the option to book a room, where on clicking the drop-down arrow one can see all the rooms available and the user may also cross check with the time slots in which a room of his/her choice is available. 
 The user can login and check all the bookings that have been made from his /her login details.
