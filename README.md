@@ -13,6 +13,7 @@ What a waste of time and energy it is, isn’t it?<br/>
 Hence, we present this computerized system. <br/>
 ## Features
 * Log in
+* register
 * Add user details
 * Book a room
 * Cancel booking 
